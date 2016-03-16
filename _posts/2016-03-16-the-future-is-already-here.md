@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You're seeing it everywhere you look. The rise of mobile. The proliferation of automation. The growth of self-driving cars. Advancements in artificial intelligence. All driven by the same underlying technological principles. Affecting every aspect of our economy, our government, our healthcare, our education system and\_our society."
-datePublished: '2016-03-16T01:06:33.596Z'
-dateModified: '2016-03-16T01:04:26.782Z'
+datePublished: '2016-03-16T01:10:39.097Z'
+dateModified: '2016-03-16T01:06:39.786Z'
 title: "The future is already here.\_"
 author: []
 sourcePath: _posts/2016-03-16-the-future-is-already-here.md
