@@ -1,6 +1,6 @@
 name: SingularityU New Zealand
 favicon: null
-layout_spectrum: 0.8085656112525612
+layout_spectrum: 0.23038
 typography_spectrum: 0.5035621579736471
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#ede251'
     - '#5eb5e2'
-  brandStrength: 0.324475011555478
+  brandStrength: 0.3125
   lightness: 0.2044654635246843
   saturation: 0.36811814014799893
   rhythmicContrast: 0.9538389074150473
